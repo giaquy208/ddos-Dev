@@ -63,5 +63,5 @@ python3 ddos ; how to ddos your websites? python3 ddos bypass https://example.co
 - [+] Best DDoS Tool in the market !
 - [+] Based On Proxies !
 - [+] Easy for Beginners !
-- [facebook](https://www.facebook.com/profile.php?id=100084657518646) target="_blank"
+- [facebook](https://www.facebook.com/profile.php?id=100084657518646)
 - ![taoanhdep_cover_abstract_23934](https://user-images.githubusercontent.com/118114783/201668837-bdb17b13-bb54-4954-a865-e9508b2c7e72.jpg)
